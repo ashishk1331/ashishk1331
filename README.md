@@ -1,1 +1,1 @@
-![Banner](https://github.com/hugekontrast/hugekontrast/blob/main/anti%20-hero%20(1).png)
+![Banner](https://github.com/hugekontrast/hugekontrast/blob/main/github_badge_banner.png)
