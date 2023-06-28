@@ -1,12 +1,4 @@
-<picture>
-  <source srcset="./hero/2xl-1536px.png" media="(min-width: 1280px)" />
-  <source srcset="./hero/xl-1280px.png" media="(min-width: 1024px)" />
-  <source srcset="./hero/lg-1024px.png" media="(min-width: 768px)" />
-  <source srcset="./hero/md-768px.png" media="(min-width: 640px)" />
-  <img src="./hero/sm-640px.png" alt="Hero Banner" />
-</picture>
-
-### AshishK is mad!
+## AshishK is back!
 😎 I know I've over-used that line but let me use it this one more time!<br />
 👋 Hello fellas!<br />
 😉 My name is Ashish Khare and I love to live on the dirty side of the web planet, aka the javascript tooling world.<br />
