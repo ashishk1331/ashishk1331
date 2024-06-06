@@ -1,5 +1,3 @@
-[![An image of @hugekontrast's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hugekontrast)](https://holopin.io/@hugekontrast)
-[![An image of @ashishk1331's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishk1331)](https://holopin.io/@ashishk1331)
 ## AshishK is back!
 😎 I know I've over-used that line but let me use it this one more time!<br />
 👋 Hello fellas!<br />
